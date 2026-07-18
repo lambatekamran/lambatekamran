@@ -14,6 +14,11 @@ I manage enterprise IT infrastructure with a focus on Windows Server, Active Dir
 * VMware & Virtualbox
 * Microsoft 365
 
+## 🌱 Currently Learning
+* Microsoft Azure
+* Msoffice/office 365
+* PowerShell Automation
+
 ## 📂 Featured Projects
 
 * 🏢 Enterprise IT Infrastructure Lab
