@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Kamran
 
-<!--
-**lambatekamran/lambatekamran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 IT Executive | Windows Server Administrator 
 
-Here are some ideas to get you started:
+I manage enterprise IT infrastructure with a focus on Windows Server, Active Directory, and Microsoft technologies. I enjoy creating hands-on labs, automating tasks with PowerShell, and documenting real-world IT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* Windows Server 2022
+* Active Directory (AD DS)
+* DNS & DHCP
+* Group Policy (GPO)
+* PowerShell
+* VMware & Virtualbox
+* Microsoft 365
+
+## 📂 Featured Projects
+
+* 🏢 Enterprise IT Infrastructure Lab
+* 🖥️ Windows Server Administration Lab
+* ⚡ PowerShell Automation
+* 📖 IT Documentation
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: *www.linkedin.com/in/kamran-lambate-a864a31a6*
+
+---
+
+> *"Building reliable IT infrastructure, one project at a time."*
