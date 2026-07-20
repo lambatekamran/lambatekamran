@@ -1,35 +1,32 @@
-# 👋 Hi, I'm Kamran
+* Hi there 👋, I'm [Kamran Lambate]
+💼 IT Executive | Technology Enthusiast 
 
-### 💼 IT Executive | Windows Server Administrator 
+I help keep IT systems running smoothly, manage technical operations, and support business productivity through reliable technology solutions.
 
-I manage enterprise IT infrastructure with a focus on Windows Server, Active Directory, and Microsoft technologies. I enjoy creating hands-on labs, automating tasks with PowerShell, and documenting real-world IT solutions.
+🚀 What I Do
+🖥️ IT Infrastructure & System Administration
+🌐 Network & User Support
+🔒 IT Security & Asset Management
+☁️ Microsoft 365
+⚡ Troubleshooting & Process Improvement
 
-## 🛠 Tech Stack
+🛠️ Tech Stack
+- Windows Server
+- Microsoft 365
+- Active Directory
+- Networking
+- VMware and Virtualbox
+- PowerShell
+- Git
 
-* Windows Server 2022
-* Active Directory (AD DS)
-* DNS & DHCP
-* Group Policy (GPO)
-* PowerShell
-* VMware & Virtualbox
-* Microsoft 365
+🌱 Currently Learning
+- Windows Administrator
+- Networking
+- Moffice/office 365
+- Generative AI Platform
 
-## 🌱 Currently Learning
-* Microsoft Azure
-* Msoffice/office 365
-* PowerShell Automation
-
-## 📂 Featured Projects
-
-* 🏢 Enterprise IT Infrastructure Lab
-* 🖥️ Windows Server Administration Lab
-* ⚡ PowerShell Automation
-* 📖 IT Documentation
-
-## 📫 Connect With Me
-
+   
+📫 Connect With Me
 * 💼 LinkedIn: *www.linkedin.com/in/kamran-lambate-a864a31a6*
 
----
-
-> *"Building reliable IT infrastructure, one project at a time."*
+>"Technology works best when it empowers people."
