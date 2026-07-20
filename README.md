@@ -1,14 +1,14 @@
 * Hi there 👋, I'm [Kamran Lambate]
-💼 IT Executive | Technology Enthusiast 
+- 💼 IT Executive | Technology Enthusiast 
 
 I help keep IT systems running smoothly, manage technical operations, and support business productivity through reliable technology solutions.
 
 🚀 What I Do
-🖥️ IT Infrastructure & System Administration
-🌐 Network & User Support
-🔒 IT Security & Asset Management
-☁️ Microsoft 365
-⚡ Troubleshooting & Process Improvement
+- 🖥️ IT Infrastructure & System Administration
+- 🌐 Network & User Support
+- 🔒 IT Security & Asset Management
+- ☁️ Microsoft 365
+- ⚡ Troubleshooting & Process Improvement
 
 🛠️ Tech Stack
 - Windows Server
