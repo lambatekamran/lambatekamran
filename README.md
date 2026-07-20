@@ -1,5 +1,5 @@
-* Hi there 👋, I'm [Kamran Lambate]
-- 💼 IT Executive | Technology Enthusiast 
+Hi there 👋, I'm [Your Name]
+💼 IT Executive | Technology Enthusiast
 
 I help keep IT systems running smoothly, manage technical operations, and support business productivity through reliable technology solutions.
 
